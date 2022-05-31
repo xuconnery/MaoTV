@@ -1,6 +1,6 @@
 {
 
-"spider":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/xm.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/xuconnery/MaoTV/main/20220531/xiaoming_20220527.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=tvfix&type=list"]}]}],
 
